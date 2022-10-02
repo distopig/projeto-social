@@ -34,3 +34,25 @@ iframe#tela{
     width: 266px;
     height: 472px;
 }
+a#insta{
+    display: block;
+    position: absolute;
+    top: 18%;
+    left: 88%;
+    height: 50px;
+    width: 50px;
+    background: url(../imagens/logo-instagram.jpg);
+    background-size: cover;
+    border-radius: 100px;
+}
+a#home{
+    display: block;
+    position: absolute;
+    top: 10%;
+    left: 88%;
+    height: 50px;
+    width: 50px;
+    background: url(../imagens/logo-home.jpg);
+    background-size: cover;
+    border-radius: 100px;
+}
