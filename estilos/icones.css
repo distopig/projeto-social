@@ -55,4 +55,10 @@ a#home{
     background: url(../imagens/logo-home.jpg);
     background-size: cover;
     border-radius: 100px;
+    box-sizing: border-box;
+}
+section#rede a:hover{
+    border: 1px solid white;
+    transform: translate(-2px, -2px);
+    transition: transform 0.5s;
 }
